@@ -76,9 +76,7 @@ def svg(s):
         elif k:
             out.append(f'<text x="{x}" y="{y}"><tspan fill="{VERDE}" font-weight="bold">{escape(k)}:</tspan> <tspan fill="{CLARO}">{escape(str(v))}</tspan></text>')
         y += LH
-    # paleta
-    for i, c in enumerate(["#484f58", "#f85149", "#3fb950", "#d29922", "#58a6ff", "#bc8cff", "#39c5cf", "#f0f6fc"]):
-        out.append(f'<rect x="{x + i*26}" y="{y}" width="20" height="14" rx="2" fill="{c}"/>')
+    
     # prompt
     py = H - 40
     out.append(f'<text x="30" y="{py}" fill="{VERDE}" xml:space="preserve">┌──({escape(USUARIO)}@github)-[~]</text>')
