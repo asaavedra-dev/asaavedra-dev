@@ -32,18 +32,18 @@
 <text x="400" y="48" fill="#3fb950" font-weight="bold" font-size="16">asaavedra-dev@github</text>
 <line x1="400" y1="60" x2="700" y2="60" stroke="#3fb950"/>
 <text x="400" y="88"><tspan fill="#3fb950" font-weight="bold">OS:</tspan> <tspan fill="#c9d1d9">Arch Linux + Hyprland</tspan></text>
-<text x="400" y="108"><tspan fill="#3fb950" font-weight="bold">Host:</tspan> <tspan fill="#c9d1d9">Instituto Tecnológico de Cuautla · TecNM</tspan></text>
+<text x="400" y="108"><tspan fill="#3fb950" font-weight="bold">Host:</tspan> <tspan fill="#c9d1d9">Instituto Tecnológico de Cuautla  TecNM</tspan></text>
 <text x="400" y="128"><tspan fill="#3fb950" font-weight="bold">Rol:</tspan> <tspan fill="#c9d1d9">Estudiante de Ing. en Sistemas Computacionales</tspan></text>
 <text x="400" y="148"><tspan fill="#3fb950" font-weight="bold">Enfoque:</tspan> <tspan fill="#c9d1d9">desarrollo web &amp; ciberseguridad</tspan></text>
-<text x="400" y="188"><tspan fill="#3fb950" font-weight="bold">Lenguajes:</tspan> <tspan fill="#c9d1d9">C++, Python, Java, Kotlin, JavaScript</tspan></text>
+<text x="400" y="188"><tspan fill="#3fb950" font-weight="bold">Lenguajes:</tspan> <tspan fill="#c9d1d9">C++, Python, Java , JavaScript</tspan></text>
 <text x="400" y="208"><tspan fill="#3fb950" font-weight="bold">Stack.Web:</tspan> <tspan fill="#c9d1d9">HTML, CSS, JavaScript</tspan></text>
 <text x="400" y="228"><tspan fill="#3fb950" font-weight="bold">Stack.Móvil:</tspan> <tspan fill="#c9d1d9">Android Studio, Kotlin</tspan></text>
 <text x="400" y="248"><tspan fill="#3fb950" font-weight="bold">Stack.3D:</tspan> <tspan fill="#c9d1d9">Blender, Godot 4</tspan></text>
-<text x="400" y="268"><tspan fill="#3fb950" font-weight="bold">Hardware:</tspan> <tspan fill="#c9d1d9">ESP32, M5Stack Cardputer</tspan></text>
+<text x="400" y="268"><tspan fill="#3fb950" font-weight="bold">Hardware:</tspan> <tspan fill="#c9d1d9">ESP32, M5Stack Cardputer, Arduino</tspan></text>
 <text x="400" y="288"><tspan fill="#3fb950" font-weight="bold">Intereses:</tspan> <tspan fill="#c9d1d9">ciberseguridad, OSINT, gamedev</tspan></text>
 <text x="400" y="328" fill="#8b949e">— GitHub Stats ———————————————</text>
 <text x="400" y="348"><tspan fill="#3fb950" font-weight="bold">Repos:</tspan> <tspan fill="#c9d1d9">11   Stars: 0</tspan></text>
-<text x="400" y="368"><tspan fill="#3fb950" font-weight="bold">Followers:</tspan> <tspan fill="#c9d1d9">3   Contribuciones: 79</tspan></text>
+<text x="400" y="368"><tspan fill="#3fb950" font-weight="bold">Followers:</tspan> <tspan fill="#c9d1d9">3   Contribuciones: 80</tspan></text>
 <text x="30" y="430" fill="#3fb950" xml:space="preserve">┌──(asaavedra-dev@github)-[~]</text>
 <text x="30" y="450" fill="#3fb950" xml:space="preserve">└─$ <tspan fill="#c9d1d9">whoami</tspan><tspan fill="#8b949e">  # sistemas · web · ciberseguridad</tspan></text>
 </svg>
